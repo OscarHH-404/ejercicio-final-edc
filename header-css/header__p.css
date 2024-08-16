@@ -1,0 +1,12 @@
+.header__p{
+    width: 70%;
+
+    text-align: center;
+    font-size: 3.4rem;
+    font-weight: bold;
+}
+
+.header__p2{
+    margin-top: 6rem;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,31 @@
+.footer__redes{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 1rem;
+
+    width: 100%;
+    height: auto;
+}
+
+.footer__red{
+    background-repeat: no-repeat;
+    width: 10%;
+    height: 10vh;
+}
+
+.footer__red__facebook{
+    background-image: url(../img/fb.png);
+}
+
+.footer__red__x{
+    background-image: url(../img/X.png);
+}
+
+.footer__red__ig{
+    background-image: url(../img/IG.png);
+}
+
+.footer__red__yt{
+    background-image: url(../img/yt.png);
+}

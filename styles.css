@@ -1,0 +1,33 @@
+/*
+bordes de busqueda brown
+color principal: rgb(110,44,8)
+*/
+:root{
+    --fuente-titulo: Caveat, "sans-serif";
+    --fuente-sitio: Roboto, "sans-serif";
+    --color-principal: rgb(110, 44, 8);
+    --color-background: #BC955C;
+}
+
+html{
+    font-family: var(--fuente-sitio);
+}
+
+h2{
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: var(--color-principal);
+}
+
+.titulo__recomendaciones{
+    margin: 4rem 0 2rem 4rem;
+}
+
+footer{
+    background-color: var(--color-background);
+}
+
+.footer__p{
+    margin-top: 1rem;
+    line-height: 1.4;
+}

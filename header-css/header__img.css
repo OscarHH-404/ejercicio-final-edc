@@ -1,0 +1,18 @@
+.header__img{
+    height: 1.40rem;
+    margin-left: 1rem;
+    border-color: gray;
+}
+
+.header__img__lupa{
+    margin: .2rem 0 0 0;
+    border-width: .2px;
+    border-style: solid;
+    border-color: gray;
+    border-top-right-radius: .5rem;
+    border-bottom-right-radius: .5rem;
+}
+
+.header__img__lupa:hover{
+    background-color: var(--color-background);
+}

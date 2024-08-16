@@ -1,0 +1,13 @@
+.main__scroll__libro__precio{
+    display: flex;
+    align-self: end;
+    margin-right: 1rem;
+
+    font-size: 1rem;
+    color: var(--color-principal);
+}
+
+.main__scroll__a{
+    height: 1.2rem;
+    width: 5rem;
+}

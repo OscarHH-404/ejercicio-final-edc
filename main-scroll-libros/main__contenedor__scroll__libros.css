@@ -1,0 +1,5 @@
+.main__contenedor__scroll__libros{
+    display: flex;
+    overflow-x: scroll;
+    margin: 0 5rem 0 5rem;
+}

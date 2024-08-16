@@ -1,0 +1,18 @@
+.main__contenedor__conocenos__p{
+    width: 100%;
+    margin: 1rem;
+}
+
+.conocenos__p{
+    margin: 1.2rem 0 1.2rem 0;
+}
+
+.conocenos__p--margen{
+    margin-top: .2rem;
+}
+
+.conocenos__p--centrado{
+    text-align: center;
+    color: var(--color-principal);
+    font-weight: bold;
+}

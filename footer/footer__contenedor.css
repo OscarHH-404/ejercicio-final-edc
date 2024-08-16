@@ -1,0 +1,20 @@
+.footer__contenedor{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+
+    padding: 1.2rem;
+
+    color: white;
+}
+
+.footer__contenedor div{
+    margin-right: 1rem;
+}
+
+.footer__linea{
+    border-bottom: solid .1rem white;
+    width: 98%;
+    height: 1.8rem;
+
+    font-weight: bold;
+}

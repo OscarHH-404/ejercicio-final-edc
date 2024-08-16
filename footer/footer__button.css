@@ -1,0 +1,14 @@
+.footer__button{
+    height: 1.5rem;
+    color: white;
+    background-color: var(--color-principal);
+    border-color: var(--color-principal);
+    border-radius: .2rem;
+    cursor: pointer;
+}
+
+.footer__button:hover{
+    color: var(--color-principal);
+    background-color: white;
+    font-weight: bold;
+}

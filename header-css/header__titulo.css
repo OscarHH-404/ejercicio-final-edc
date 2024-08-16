@@ -1,0 +1,6 @@
+.header__titulo{
+    font-size: 2.6rem;
+    font-weight: bold;
+    font-family: var(--fuente-titulo);
+    color: var(--color-principal);
+}
